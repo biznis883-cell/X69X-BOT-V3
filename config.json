@@ -79,7 +79,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "X69X BOT V3",
+  "nickNameBot": "بـوت ميـساء💕💋",
   "prefix": "#",
   "database": {
     "type": "mongodb",
