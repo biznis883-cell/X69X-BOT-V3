@@ -16,11 +16,11 @@ module.exports = {
   langs: {
     en: {
       askPrefix: "😏 𝐇𝐞𝐲 %name%, 𝐝𝐢𝐝 𝐲𝐨𝐮 𝐚𝐬𝐤 𝐟𝐨𝐫 𝐦𝐲 𝐩𝐫𝐞𝐟𝐢𝐱?\n❯🌐 𝐆𝐥𝐨𝐛𝐚𝐥 ⟿『%global%』\n❯💬 𝐂𝐡𝐚𝐭 ⟿ 『%chat%』\n\n🤖 𝐈'𝐦 𝐗69𝐗 𝐁𝐎𝐓 𝐕3 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐬𝐞𝐫𝐯𝐢𝐜𝐞 👿",
-      resetPrefix: "☢️ 𝐏𝐫𝐞𝐟𝐢𝐱 𝐑𝐞𝐬𝐞𝐭\n\n🌐 𝐆𝐥𝐨𝐛𝐚𝐥 ⟿ %global%\n💬 𝐂𝐡𝐚𝐭 ⟿ %global%\n\n🤖 𝐗69𝐗 𝐁𝐎𝐓 𝐕3",
+      resetPrefix: "☢️ 𝐏𝐫𝐞𝐟𝐢𝐱 𝐑𝐞𝐬𝐞𝐭\n\n🌐 𝐆𝐥𝐨𝐛𝐚𝐥 ⟿ %global%\n💬 𝐂𝐡𝐚𝐭 ⟿ %global%\n\n 𝘽𝘼𝙎𝙎𝙀𝙏 𝘽𝙊𝙏 🥱",
       confirmChange: "♻️ %type% 𝐂𝐡𝐚𝐧𝐠𝐞\n%old% ⇢ %new%\n\n👆 𝐑𝐞𝐚𝐜𝐭 𝐰𝐢𝐭𝐡 ✅ 𝐭𝐨 𝐜𝐨𝐧𝐟𝐢𝐫𝐦",
-      updatedGlobal: "✅ 𝐆𝐥𝐨𝐛𝐚𝐥 𝐔𝐩𝐝𝐚𝐭𝐞 ⇢ %prefix%\n\n🤖 𝐗69𝐗 𝐁𝐎𝐓 𝐕3",
-      updatedChat: "✅ 𝐂𝐡𝐚𝐭 𝐔𝐩𝐝𝐚𝐭𝐞 ⇢ %prefix%\n\n🤖 𝐗69𝐗 𝐁𝐎𝐓 𝐕3",
-      ownerOnly: "⛔ 𝐎𝐰𝐧𝐞𝐫 𝐎𝐧𝐥𝐲",
+      updatedGlobal: "✅ 𝐆𝐥𝐨𝐛𝐚𝐥 𝐔𝐩𝐝𝐚𝐭𝐞 ⇢ %prefix%\n\n🤖 𝘽𝘼𝙎𝙎𝙀𝙏 𝘽𝙊𝙏 🥱",
+      updatedChat: "✅ 𝐂𝐡𝐚𝐭 𝐔𝐩𝐝𝐚𝐭𝐞 ⇢ %prefix%\n\n🤖 𝘽𝘼𝙎𝙎𝙀𝙏 𝘽𝙊𝙏 🥱 ",
+      ownly: "⛔ 𝐎𝐰𝐧𝐞𝐫 𝐎𝐧𝐥𝐲",
       cancelled: "❌ 𝐂𝐚𝐧𝐜𝐞𝐥𝐥𝐞𝐝"
     }
   },
